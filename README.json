@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 62449869,
                 "language": "Java",
-                "last_commit": "2026-08-19T15:21:17Z",
+                "last_commit": "2026-08-20T13:30:58Z",
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
                 "stars": 602
@@ -103,10 +103,10 @@
                 "archived": false,
                 "id": 18117991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T19:14:55Z",
+                "last_commit": "2026-08-19T22:25:25Z",
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3377
+                "stars": 3378
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2026-08-14T16:06:20Z",
                 "owner": "slackapi",
                 "repo": "bolt-js",
-                "stars": 2937
+                "stars": 2940
               }
             },
             {
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 26456792,
                 "language": "Python",
-                "last_commit": "2026-08-18T22:42:29Z",
+                "last_commit": "2026-08-19T22:16:50Z",
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4014
@@ -427,7 +427,7 @@
                 "last_commit": "2023-04-24T07:03:26Z",
                 "owner": "slack-notifier",
                 "repo": "slack-notifier",
-                "stars": 1489
+                "stars": 1488
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2025-12-30T18:37:06Z",
                 "owner": "slack-ruby",
                 "repo": "slack-ruby-bot-server",
-                "stars": 271
+                "stars": 268
               }
             },
             {
@@ -582,7 +582,7 @@
                 "last_commit": "2026-08-12T17:22:41Z",
                 "owner": "slackapi",
                 "repo": "slack-github-action",
-                "stars": 1343
+                "stars": 1344
               }
             },
             {
@@ -664,7 +664,7 @@
                 "last_commit": "2026-08-01T13:16:14Z",
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21399
+                "stars": 21400
               }
             },
             {
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:54:56.469Z",
+    "last_updated": "2026-08-20T15:56:44.782Z",
     "original_repository": "matiassingers/awesome-slack",
     "original_repository_id": 32439010,
     "original_repository_sha": "5d5dd96fbca8ab8057b44b1ad1e72a487750119c",
