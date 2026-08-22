@@ -1,6 +1,6 @@
 # Awesome slack with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,545 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,895 | 🐛 105 | 📅 2026-08-21
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -49,16 +49,16 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Go
 
-* [webhook](https://github.com/adnanh/webhook) ⭐ 12,052 | 🐛 126 | 🌐 Go | 📅 2026-08-05 - Easily run commands in response to HTTP webhook requests from Slack
+* [webhook](https://github.com/adnanh/webhook) ⭐ 12,057 | 🐛 126 | 🌐 Go | 📅 2026-08-05 - Easily run commands in response to HTTP webhook requests from Slack
 
 ### Java
 
-* [java-slack-sdk](https://github.com/slackapi/java-slack-sdk) ⭐ 602 | 🐛 45 | 🌐 Java | 📅 2026-08-21 - Slack's official Java framework for building Slack apps
+* [java-slack-sdk](https://github.com/slackapi/java-slack-sdk) ⭐ 602 | 🐛 46 | 🌐 Java | 📅 2026-08-22 - Slack's official Java framework for building Slack apps
 * [simple-slack-api](https://github.com/Ullink/simple-slack-api) ⭐ 474 | 🐛 79 | 🌐 Java | 📅 2022-10-04 - A Slack client library in Java
 
 ### JavaScript/TypeScript
 
-* [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) ⭐ 3,378 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-20 - Slack's official SDK for Node.js
+* [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) ⭐ 3,377 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-22 - Slack's official SDK for Node.js
 * [bolt-js](https://github.com/slackapi/bolt-js) ⭐ 2,940 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-21 - Slack's official JavaScript framework for building Slack apps
 * [slack-block-builder](https://github.com/raycharius/slack-block-builder) ⭐ 637 | 🐛 21 | 🌐 TypeScript | 📅 2024-08-18 - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI
 * [jsx-slack](https://github.com/yhatt/jsx-slack) ⭐ 506 | 🐛 16 | 🌐 TypeScript | 📅 2026-02-26 - Build JSON object for Slack Block Kit surfaces from JSX
@@ -77,7 +77,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Python
 
-* [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) ⭐ 4,014 | 🐛 57 | 🌐 Python | 📅 2026-08-20 - Slack's official SDK for Python
+* [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) ⭐ 4,014 | 🐛 57 | 🌐 Python | 📅 2026-08-21 - Slack's official SDK for Python
 * [bolt-python](https://github.com/slackapi/bolt-python) ⭐ 1,321 | 🐛 27 | 🌐 Python | 📅 2026-08-20 - Slack's official Python framework for building Slack apps
 * [python-slack-events-api](https://github.com/slackapi/python-slack-events-api) ⭐ 340 | 🐛 2 | 🌐 Python | 📅 2026-06-02 - Slack Events API adapter for Python
 * [slack-php-api](https://github.com/jolicode/slack-php-api) ⭐ 255 | 🐛 14 | 🌐 PHP | 📅 2026-03-10 - PHP Slack client based on the official OpenAPI specification
@@ -165,4 +165,4 @@ To the extent possible under law, [Matias Singers](http://mts.io) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

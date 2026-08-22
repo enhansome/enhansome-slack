@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 62449869,
                 "language": "Java",
-                "last_commit": "2026-08-21T01:35:05Z",
+                "last_commit": "2026-08-22T00:54:53Z",
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
                 "stars": 602
@@ -103,10 +103,10 @@
                 "archived": false,
                 "id": 18117991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T19:39:50Z",
+                "last_commit": "2026-08-22T00:24:08Z",
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3378
+                "stars": 3377
               }
             },
             {
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 26456792,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:19:45Z",
+                "last_commit": "2026-08-21T23:12:38Z",
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4014
@@ -661,7 +661,7 @@
                 "archived": false,
                 "id": 1376664,
                 "language": "PHP",
-                "last_commit": "2026-08-21T15:13:53Z",
+                "last_commit": "2026-08-21T21:09:56Z",
                 "owner": "Seldaek",
                 "repo": "monolog",
                 "stars": 21399
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:56:26.974Z",
+    "last_updated": "2026-08-22T15:43:16.470Z",
     "original_repository": "matiassingers/awesome-slack",
     "original_repository_id": 32439010,
     "original_repository_sha": "5d5dd96fbca8ab8057b44b1ad1e72a487750119c",
