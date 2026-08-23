@@ -357,7 +357,7 @@
                 "archived": false,
                 "id": 196840370,
                 "language": "Python",
-                "last_commit": "2026-08-18T03:44:39Z",
+                "last_commit": "2026-08-23T12:58:45Z",
                 "owner": "nicklambourne",
                 "repo": "slackblocks",
                 "stars": 75
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:43:16.470Z",
+    "last_updated": "2026-08-23T15:44:09.519Z",
     "original_repository": "matiassingers/awesome-slack",
     "original_repository_id": 32439010,
     "original_repository_sha": "5d5dd96fbca8ab8057b44b1ad1e72a487750119c",
