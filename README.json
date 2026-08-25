@@ -17,7 +17,7 @@
                 "last_commit": "2023-08-31T01:14:12Z",
                 "owner": "Inumedia",
                 "repo": "SlackAPI",
-                "stars": 454
+                "stars": 455
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-05T20:05:30Z",
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12064
+                "stars": 12077
               }
             }
           ],
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 62449869,
                 "language": "Java",
-                "last_commit": "2026-08-22T00:54:53Z",
+                "last_commit": "2026-08-25T06:02:26Z",
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
                 "stars": 602
@@ -162,7 +162,7 @@
                 "archived": false,
                 "id": 63654176,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:53:28Z",
+                "last_commit": "2026-08-25T04:34:31Z",
                 "owner": "slackapi",
                 "repo": "bolt-js",
                 "stars": 2940
@@ -423,7 +423,7 @@
                 "archived": false,
                 "id": 196840370,
                 "language": "Python",
-                "last_commit": "2026-08-23T12:58:45Z",
+                "last_commit": "2026-08-25T03:47:32Z",
                 "owner": "nicklambourne",
                 "repo": "slackblocks",
                 "stars": 75
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:02:25.697Z",
+    "last_updated": "2026-08-25T06:10:47.558Z",
     "original_repository": "matiassingers/awesome-slack",
     "original_repository_id": 32439010,
     "original_repository_sha": "5d5dd96fbca8ab8057b44b1ad1e72a487750119c",
