@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-10T19:08:35Z",
                 "owner": "mrb0nj",
                 "repo": "Slack.Webhooks",
-                "stars": 173
+                "stars": 172
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-05T20:05:30Z",
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12077
+                "stars": 12081
               }
             }
           ],
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 62449869,
                 "language": "Java",
-                "last_commit": "2026-08-25T06:02:26Z",
+                "last_commit": "2026-08-25T15:55:05Z",
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
                 "stars": 602
@@ -892,7 +892,7 @@
                 "last_commit": "2023-03-14T14:41:57Z",
                 "owner": "scrapinghub",
                 "repo": "slackbot",
-                "stars": 1280
+                "stars": 1279
               }
             },
             {
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:47.558Z",
+    "last_updated": "2026-08-25T16:06:49.482Z",
     "original_repository": "matiassingers/awesome-slack",
     "original_repository_id": 32439010,
     "original_repository_sha": "5d5dd96fbca8ab8057b44b1ad1e72a487750119c",

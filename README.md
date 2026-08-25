@@ -1,6 +1,6 @@
 # Awesome slack with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,702 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,843 | 🐛 106 | 📅 2026-08-21
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -40,7 +40,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### C\#
 
 * [SlackAPI](https://github.com/Inumedia/SlackAPI) ⭐ 455 | 🐛 81 | 🌐 C# | 📅 2023-08-31 - A third-party implementation of Slack's API written in C#
-* [Slack.Webhooks](https://github.com/nerdfury/Slack.Webhooks) ⭐ 173 | 🐛 11 | 🌐 C# | 📅 2026-06-10 - A library to work with Slack webhooks more easily
+* [Slack.Webhooks](https://github.com/nerdfury/Slack.Webhooks) ⭐ 172 | 🐛 11 | 🌐 C# | 📅 2026-06-10 - A library to work with Slack webhooks more easily
 * [margiebot](https://github.com/jammerware/margiebot) ⭐ 123 | 🐛 12 | 🌐 C# | 📅 2022-06-23 - A .NET library designed to make building bots for Slack fast, easy, and fun
 
 ### Erlang
@@ -49,7 +49,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Go
 
-* [webhook](https://github.com/adnanh/webhook) ⭐ 12,077 | 🐛 126 | 🌐 Go | 📅 2026-08-05 - Easily run commands in response to HTTP webhook requests from Slack
+* [webhook](https://github.com/adnanh/webhook) ⭐ 12,081 | 🐛 126 | 🌐 Go | 📅 2026-08-05 - Easily run commands in response to HTTP webhook requests from Slack
 
 ### Java
 
@@ -142,7 +142,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### Python
 
 * [wee-slack](https://github.com/rawdigits/wee-slack) ⭐ 2,615 | 🐛 114 | 🌐 Python | 📅 2026-08-17 - A WeeChat plugin for Slack
-* [slackbot](https://github.com/lins05/slackbot) ⭐ 1,280 | 🐛 68 | 🌐 Python | 📅 2023-03-14 - A chat bot for Slack
+* [slackbot](https://github.com/lins05/slackbot) ⭐ 1,279 | 🐛 68 | 🌐 Python | 📅 2023-03-14 - A chat bot for Slack
 * [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 187 | 🐛 3 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
 * [tasks-app](https://github.com/slackapi/tasks-app) ⚠️ Archived - Simple task management app produced by Slack
 
