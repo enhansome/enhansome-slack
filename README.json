@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-05T20:05:30Z",
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12086
+                "stars": 12094
               }
             }
           ],
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 62449869,
                 "language": "Java",
-                "last_commit": "2026-08-26T16:11:28Z",
+                "last_commit": "2026-08-27T06:59:34Z",
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
                 "stars": 602
@@ -147,7 +147,7 @@
                 "archived": false,
                 "id": 18117991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:31:52Z",
+                "last_commit": "2026-08-27T06:50:26Z",
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
                 "stars": 3377
@@ -318,7 +318,7 @@
                 "archived": false,
                 "id": 26456792,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:06:40Z",
+                "last_commit": "2026-08-27T07:07:40Z",
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4015
@@ -333,7 +333,7 @@
                 "archived": false,
                 "id": 268795735,
                 "language": "Python",
-                "last_commit": "2026-08-25T18:20:19Z",
+                "last_commit": "2026-08-26T22:25:15Z",
                 "owner": "slackapi",
                 "repo": "bolt-python",
                 "stars": 1321
@@ -840,7 +840,7 @@
                 "last_commit": "2026-08-24T08:18:08Z",
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21401
+                "stars": 21402
               }
             },
             {
@@ -1002,9 +1002,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:52.561Z",
-    "original_repository": "matiassingers/awesome-slack",
-    "original_repository_id": 32439010,
+    "last_updated": "2026-08-27T12:07:51.254Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 32439010,
+      "language": null,
+      "last_commit": "2025-07-28T12:38:16Z",
+      "owner": "matiassingers",
+      "repo": "awesome-slack",
+      "stars": 893
+    },
     "original_repository_sha": "5d5dd96fbca8ab8057b44b1ad1e72a487750119c",
     "enhanced_repository": "enhansome/enhansome-slack",
     "enhanced_repository_description": null,
