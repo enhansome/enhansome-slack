@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-27T06:59:34Z",
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
-                "stars": 602
+                "stars": 603
               }
             },
             {
@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 18117991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T06:50:26Z",
+                "last_commit": "2026-08-27T20:34:34Z",
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3377
+                "stars": 3378
               }
             },
             {
@@ -162,10 +162,10 @@
                 "archived": false,
                 "id": 63654176,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:34:31Z",
+                "last_commit": "2026-08-27T17:38:50Z",
                 "owner": "slackapi",
                 "repo": "bolt-js",
-                "stars": 2940
+                "stars": 2941
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-27T07:07:40Z",
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4015
+                "stars": 4016
               }
             },
             {
@@ -333,7 +333,7 @@
                 "archived": false,
                 "id": 268795735,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:25:15Z",
+                "last_commit": "2026-08-27T23:21:27Z",
                 "owner": "slackapi",
                 "repo": "bolt-python",
                 "stars": 1321
@@ -840,7 +840,7 @@
                 "last_commit": "2026-08-24T08:18:08Z",
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21402
+                "stars": 21403
               }
             },
             {
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:51.254Z",
+    "last_updated": "2026-08-28T00:28:30.488Z",
     "original_repository_info": {
       "archived": false,
       "id": 32439010,
