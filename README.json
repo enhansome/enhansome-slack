@@ -7,6 +7,36 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ballerina-slack-library",
+              "description": "Ballerina library for Slack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ballerina slack module",
+                "homepage": null,
+                "id": 246797141,
+                "language": "Ballerina",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-26T16:58:19Z",
+                "open_issues": 0,
+                "owner": "ballerina-platform",
+                "repo": "module-ballerinax-slack",
+                "stars": 108,
+                "topics": [
+                  "ballerina"
+                ]
+              },
+              "first_seen": "2026-08-29T18:43:27.869Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ballerina"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SlackAPI",
               "description": "A third-party implementation of Slack's API written in C#",
               "children": [],
@@ -124,7 +154,7 @@
                 "open_issues": 126,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12098,
+                "stars": 12102,
                 "topics": [
                   "automate",
                   "automation",
@@ -345,6 +375,37 @@
                 ]
               },
               "first_seen": "2026-08-29T00:03:20.600Z"
+            },
+            {
+              "node_type": "item",
+              "title": "appstore-webhook-proxy",
+              "description": "App Store Webhook Proxy for Microsoft Teams & Slack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "App Store Webhook Proxy for Slack & MS Teams",
+                "homepage": null,
+                "id": 1001152419,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-03-21T17:12:57Z",
+                "open_issues": 0,
+                "owner": "yannisalexiou",
+                "repo": "appstore-webhook-proxy",
+                "stars": 27,
+                "topics": [
+                  "app-store-connect",
+                  "azure-devops",
+                  "ios",
+                  "microsoft-teams",
+                  "nodejs",
+                  "productivity",
+                  "slack",
+                  "slack-api",
+                  "webhook"
+                ]
+              },
+              "first_seen": "2026-08-29T18:43:27.869Z"
             }
           ],
           "description": null,
@@ -1285,6 +1346,44 @@
             },
             {
               "node_type": "item",
+              "title": "SlackONOS",
+              "description": "Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🎵 Democratic Slack/Discord bot for Sonos control with Spotify integration. Queue music, vote to skip, and let the community decide what plays!",
+                "homepage": "https://github.com/htilly/SlackONOS#readme",
+                "id": 57378574,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:37:20Z",
+                "open_issues": 1,
+                "owner": "htilly",
+                "repo": "SlackONOS",
+                "stars": 135,
+                "topics": [
+                  "bot",
+                  "discord",
+                  "dj",
+                  "jukebox",
+                  "jukebox-application",
+                  "music",
+                  "nodejs",
+                  "openai",
+                  "playlist-manager",
+                  "slack",
+                  "sonos",
+                  "sonos-controller",
+                  "soundcraft",
+                  "spotify",
+                  "virtual-jukebox",
+                  "voting"
+                ]
+              },
+              "first_seen": "2026-08-29T18:43:27.869Z"
+            },
+            {
+              "node_type": "item",
               "title": "tasks-app",
               "description": "Simple task management app produced by Slack",
               "children": [],
@@ -1406,7 +1505,7 @@
                 "open_issues": 19,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21402,
+                "stars": 21403,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -1461,7 +1560,7 @@
                 "open_issues": 114,
                 "owner": "wee-slack",
                 "repo": "wee-slack",
-                "stars": 2616,
+                "stars": 2617,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:20.600Z"
@@ -1596,6 +1695,43 @@
             },
             {
               "node_type": "item",
+              "title": "ZReviewTender",
+              "description": "A tool for fetching app reviews from the App Store and Google Play Console and sending them to Slack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ZReviewTender fetches app reviews from the App Store and Google Play Console using the new Stability API, and resends them to Slack or integrates with your workflow.",
+                "homepage": "https://link.zhgchg.li/",
+                "id": 516425682,
+                "language": "Ruby",
+                "license": "MIT",
+                "last_commit": "2026-05-07T02:06:54Z",
+                "open_issues": 6,
+                "owner": "ZhgChgLi",
+                "repo": "ZReviewTender",
+                "stars": 62,
+                "topics": [
+                  "android",
+                  "android-reviews",
+                  "app-reviews",
+                  "appstoreconnect",
+                  "appstoreconnectapi",
+                  "automatic",
+                  "google-play-console",
+                  "googleplaystore",
+                  "ios",
+                  "ios-reviews",
+                  "review-bot",
+                  "reviews-crawler",
+                  "ruby",
+                  "slack",
+                  "slack-bot"
+                ]
+              },
+              "first_seen": "2026-08-29T18:43:27.869Z"
+            },
+            {
+              "node_type": "item",
               "title": "snarkov",
               "description": "Sinatra-based Markov bot for Slack",
               "children": [],
@@ -1653,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:57.812Z",
+    "last_updated": "2026-08-29T18:43:27.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
@@ -1661,8 +1797,8 @@
       "id": 32439010,
       "language": null,
       "license": null,
-      "last_commit": "2025-07-28T12:38:16Z",
-      "open_issues": 13,
+      "last_commit": "2026-08-29T10:12:36Z",
+      "open_issues": 2,
       "owner": "matiassingers",
       "repo": "awesome-slack",
       "stars": 893,
@@ -1673,7 +1809,7 @@
         "slack"
       ]
     },
-    "original_repository_sha": "5d5dd96fbca8ab8057b44b1ad1e72a487750119c",
+    "original_repository_sha": "2d3a4196a809df3f80638cb7fa3e1e18be28d193",
     "enhanced_repository": "enhansome/enhansome-slack",
     "enhanced_repository_description": null,
     "title": "Awesome slack with stars"
