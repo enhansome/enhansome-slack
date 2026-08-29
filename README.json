@@ -18,7 +18,8 @@
                 "owner": "Inumedia",
                 "repo": "SlackAPI",
                 "stars": 456
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "mrb0nj",
                 "repo": "Slack.Webhooks",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "jammerware",
                 "repo": "margiebot",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "julienXX",
                 "repo": "slacker",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -91,8 +95,9 @@
                 "last_commit": "2026-08-05T20:05:30Z",
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12094
-              }
+                "stars": 12098
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -110,11 +115,12 @@
                 "archived": false,
                 "id": 62449869,
                 "language": "Java",
-                "last_commit": "2026-08-27T06:59:34Z",
+                "last_commit": "2026-08-28T20:21:52Z",
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
                 "stars": 603
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -129,7 +135,8 @@
                 "owner": "Itiviti",
                 "repo": "simple-slack-api",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -151,7 +158,8 @@
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
                 "stars": 3378
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -166,7 +174,8 @@
                 "owner": "slackapi",
                 "repo": "bolt-js",
                 "stars": 2941
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -181,7 +190,8 @@
                 "owner": "raycharius",
                 "repo": "slack-block-builder",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -196,7 +206,8 @@
                 "owner": "yhatt",
                 "repo": "jsx-slack",
                 "stars": 507
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -218,7 +229,8 @@
                 "owner": "slack-php",
                 "repo": "slack-php-app-framework",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -233,7 +245,8 @@
                 "owner": "DZunke",
                 "repo": "SlackBundle",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -248,7 +261,8 @@
                 "owner": "jeremeamia",
                 "repo": "slack-block-kit",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -263,7 +277,8 @@
                 "owner": "slack-php",
                 "repo": "slack-php-socket-mode",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -278,7 +293,8 @@
                 "owner": "slack-php",
                 "repo": "slack-php-slick",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -300,7 +316,8 @@
                 "owner": "RamblingCookieMonster",
                 "repo": "PSSlack",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -318,11 +335,12 @@
                 "archived": false,
                 "id": 26456792,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:07:40Z",
+                "last_commit": "2026-08-28T04:16:01Z",
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4016
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -333,11 +351,12 @@
                 "archived": false,
                 "id": 268795735,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:21:27Z",
+                "last_commit": "2026-08-28T18:45:21Z",
                 "owner": "slackapi",
                 "repo": "bolt-python",
                 "stars": 1321
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -352,7 +371,8 @@
                 "owner": "slackapi",
                 "repo": "python-slack-events-api",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -367,7 +387,8 @@
                 "owner": "jolicode",
                 "repo": "slack-php-api",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "lamby",
                 "repo": "django-slack",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -397,7 +419,8 @@
                 "owner": "juanpabloaj",
                 "repo": "slacker-cli",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -412,7 +435,8 @@
                 "owner": "imryche",
                 "repo": "blockkit",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -423,11 +447,12 @@
                 "archived": false,
                 "id": 196840370,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:47:32Z",
+                "last_commit": "2026-08-28T15:45:14Z",
                 "owner": "nicklambourne",
                 "repo": "slackblocks",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -442,7 +467,8 @@
                 "owner": "izdi",
                 "repo": "django-slack-oauth",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -457,7 +483,8 @@
                 "owner": "ebrassell",
                 "repo": "slashbot",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -472,7 +499,8 @@
                 "owner": "YSaxon",
                 "repo": "boltworks",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -494,7 +522,8 @@
                 "owner": "mrkaye97",
                 "repo": "slackr",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -516,7 +545,8 @@
                 "owner": "slack-notifier",
                 "repo": "slack-notifier",
                 "stars": 1487
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -531,7 +561,8 @@
                 "owner": "slack-ruby",
                 "repo": "slack-ruby-bot-server",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -546,7 +577,8 @@
                 "owner": "sosedoff",
                 "repo": "slack-notify",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -561,7 +593,8 @@
                 "owner": "CGA1123",
                 "repo": "slack-ruby-block-kit",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -576,7 +609,8 @@
                 "owner": "rikas",
                 "repo": "slack-poster",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -591,7 +625,8 @@
                 "owner": "dblock",
                 "repo": "slack-ruby-bot",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -606,7 +641,8 @@
                 "owner": "dblock",
                 "repo": "slack-ruby-client",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -628,7 +664,8 @@
                 "owner": "abdolence",
                 "repo": "slack-morphism-rust",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -650,7 +687,8 @@
                 "owner": "slack-scala-client",
                 "repo": "slack-scala-client",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -672,7 +710,8 @@
                 "owner": "SwiftBlocksUI",
                 "repo": "SwiftBlocksUI",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -700,7 +739,8 @@
                 "owner": "sdslabs",
                 "repo": "jinora",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -722,7 +762,8 @@
                 "owner": "Itiviti",
                 "repo": "simple-slack-api",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -737,7 +778,8 @@
                 "owner": "slack-samples",
                 "repo": "bolt-js-tasks-app",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -759,7 +801,8 @@
                 "owner": "slackapi",
                 "repo": "slack-github-action",
                 "stars": 1343
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -774,7 +817,8 @@
                 "owner": "slack-samples",
                 "repo": "bolt-js-tasks-app",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -789,7 +833,8 @@
                 "owner": "heikkipora",
                 "repo": "tesla-slack",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -804,7 +849,8 @@
                 "owner": "slack-samples",
                 "repo": "bolt-ts-definition-app",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -819,7 +865,8 @@
                 "owner": "slack-samples",
                 "repo": "bolt-ts-reporting-tool",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -837,11 +884,12 @@
                 "archived": false,
                 "id": 1376664,
                 "language": "PHP",
-                "last_commit": "2026-08-24T08:18:08Z",
+                "last_commit": "2026-08-28T20:38:21Z",
                 "owner": "Seldaek",
                 "repo": "monolog",
                 "stars": 21403
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -856,7 +904,8 @@
                 "owner": "infojunkie",
                 "repo": "MantisBT-Slack",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -878,7 +927,8 @@
                 "owner": "wee-slack",
                 "repo": "wee-slack",
                 "stars": 2616
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -893,7 +943,8 @@
                 "owner": "scrapinghub",
                 "repo": "slackbot",
                 "stars": 1279
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -908,7 +959,8 @@
                 "owner": "juanpabloaj",
                 "repo": "slacker-cli",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -923,7 +975,8 @@
                 "owner": "slack-samples",
                 "repo": "bolt-js-tasks-app",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -945,7 +998,8 @@
                 "owner": "gesteves",
                 "repo": "trebekbot",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -960,7 +1014,8 @@
                 "owner": "dblock",
                 "repo": "slack-gamebot",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -975,7 +1030,8 @@
                 "owner": "gesteves",
                 "repo": "snarkov",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             },
             {
               "node_type": "item",
@@ -990,7 +1046,8 @@
                 "owner": "barryf",
                 "repo": "tickbot",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:03:20.600Z"
             }
           ],
           "description": null,
@@ -1002,7 +1059,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:28:30.488Z",
+    "last_updated": "2026-08-29T00:03:20.600Z",
     "original_repository_info": {
       "archived": false,
       "id": 32439010,
