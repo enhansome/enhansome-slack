@@ -154,7 +154,7 @@
                 "open_issues": 126,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12102,
+                "stars": 12103,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,7 +199,7 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:35:14Z",
+                "last_commit": "2026-08-30T00:37:56Z",
                 "open_issues": 45,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
@@ -295,7 +295,7 @@
                 "open_issues": 84,
                 "owner": "slackapi",
                 "repo": "bolt-js",
-                "stars": 2941,
+                "stars": 2940,
                 "topics": [
                   "framework",
                   "javascript",
@@ -606,7 +606,7 @@
                 "open_issues": 56,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4016,
+                "stars": 4015,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -1114,7 +1114,7 @@
                 "id": 66153793,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-12T02:40:08Z",
+                "last_commit": "2026-08-29T22:45:50Z",
                 "open_issues": 0,
                 "owner": "dblock",
                 "repo": "slack-ruby-client",
@@ -1146,7 +1146,7 @@
                 "open_issues": 3,
                 "owner": "abdolence",
                 "repo": "slack-morphism-rust",
-                "stars": 227,
+                "stars": 229,
                 "topics": [
                   "rust",
                   "rust-crate",
@@ -1356,8 +1356,8 @@
                 "id": 57378574,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T21:37:20Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-30T11:02:57Z",
+                "open_issues": 2,
                 "owner": "htilly",
                 "repo": "SlackONOS",
                 "stars": 135,
@@ -1505,7 +1505,7 @@
                 "open_issues": 19,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21403,
+                "stars": 21402,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:43:27.869Z",
+    "last_updated": "2026-08-30T18:40:51.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
