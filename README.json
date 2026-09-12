@@ -154,7 +154,7 @@
                 "open_issues": 127,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12126,
+                "stars": 12127,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,7 +199,7 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-11T00:36:58Z",
+                "last_commit": "2026-09-12T00:36:49Z",
                 "open_issues": 46,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
@@ -638,7 +638,7 @@
                 "open_issues": 29,
                 "owner": "slackapi",
                 "repo": "bolt-python",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -818,8 +818,8 @@
                 "id": 196840370,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T05:29:24Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-12T13:48:39Z",
+                "open_issues": 8,
                 "owner": "nicklambourne",
                 "repo": "slackblocks",
                 "stars": 75,
@@ -941,7 +941,7 @@
                 "open_issues": 4,
                 "owner": "mrkaye97",
                 "repo": "slackr",
-                "stars": 308,
+                "stars": 309,
                 "topics": [
                   "r",
                   "rstats",
@@ -1360,7 +1360,7 @@
                 "open_issues": 6,
                 "owner": "htilly",
                 "repo": "SlackONOS",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "bot",
                   "discord",
@@ -1505,7 +1505,7 @@
                 "open_issues": 3,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21403,
+                "stars": 21404,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:40:44.947Z",
+    "last_updated": "2026-09-12T17:46:00.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
