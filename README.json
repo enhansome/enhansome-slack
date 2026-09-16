@@ -154,7 +154,7 @@
                 "open_issues": 127,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12130,
+                "stars": 12131,
                 "topics": [
                   "automate",
                   "automation",
@@ -606,7 +606,7 @@
                 "open_issues": 56,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4012,
+                "stars": 4013,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -818,11 +818,11 @@
                 "id": 196840370,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-15T17:11:53Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-16T12:56:59Z",
+                "open_issues": 0,
                 "owner": "nicklambourne",
                 "repo": "slackblocks",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "blocks",
                   "python",
@@ -1505,7 +1505,7 @@
                 "open_issues": 3,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21405,
+                "stars": 21406,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:07:50.779Z",
+    "last_updated": "2026-09-16T18:58:54.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
