@@ -154,7 +154,7 @@
                 "open_issues": 127,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12133,
+                "stars": 12136,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,7 +199,7 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-17T18:31:22Z",
+                "last_commit": "2026-09-18T00:35:38Z",
                 "open_issues": 47,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
@@ -262,7 +262,7 @@
                 "id": 18117991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T22:28:27Z",
+                "last_commit": "2026-09-17T19:41:46Z",
                 "open_issues": 62,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
@@ -291,7 +291,7 @@
                 "id": 63654176,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T18:31:26Z",
+                "last_commit": "2026-09-18T16:06:10Z",
                 "open_issues": 91,
                 "owner": "slackapi",
                 "repo": "bolt-js",
@@ -1146,7 +1146,7 @@
                 "open_issues": 2,
                 "owner": "abdolence",
                 "repo": "slack-morphism-rust",
-                "stars": 230,
+                "stars": 231,
                 "topics": [
                   "rust",
                   "rust-crate",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:08:02.616Z",
+    "last_updated": "2026-09-18T18:35:18.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
