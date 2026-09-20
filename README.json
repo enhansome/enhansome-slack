@@ -151,10 +151,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-04T18:02:57Z",
-                "open_issues": 127,
+                "open_issues": 126,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12136,
+                "stars": 12139,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,7 +199,7 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:34:47Z",
+                "last_commit": "2026-09-20T00:36:44Z",
                 "open_issues": 47,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
@@ -603,7 +603,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T17:43:00Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4013,
@@ -1142,7 +1142,7 @@
                 "id": 267288954,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T23:33:07Z",
+                "last_commit": "2026-09-19T23:19:12Z",
                 "open_issues": 2,
                 "owner": "abdolence",
                 "repo": "slack-morphism-rust",
@@ -1335,7 +1335,7 @@
                 "open_issues": 23,
                 "owner": "slackapi",
                 "repo": "slack-github-action",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "bot",
                   "github-actions",
@@ -1501,8 +1501,8 @@
                 "id": 1376664,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-09T15:14:11Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-20T11:19:54Z",
+                "open_issues": 6,
                 "owner": "Seldaek",
                 "repo": "monolog",
                 "stars": 21405,
@@ -1560,7 +1560,7 @@
                 "open_issues": 114,
                 "owner": "wee-slack",
                 "repo": "wee-slack",
-                "stars": 2615,
+                "stars": 2616,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:20.600Z"
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:07:58.664Z",
+    "last_updated": "2026-09-20T18:14:08.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
