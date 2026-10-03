@@ -1,6 +1,6 @@
 # Awesome slack with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,059 | 🐛 107 | 📅 2026-09-02
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -40,7 +40,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Ballerina
 
-* [ballerina-slack-library](https://github.com/ballerina-platform/module-ballerinax-slack) ⭐ 108 | 🐛 0 | 🌐 Ballerina | 📅 2026-03-26 - Ballerina library for Slack.
+* [ballerina-slack-library](https://github.com/ballerina-platform/module-ballerinax-slack) ⭐ 108 | 🐛 1 | 🌐 Ballerina | 📅 2026-10-03 - Ballerina library for Slack.
 
 ### C\#
 
@@ -54,7 +54,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Go
 
-* [webhook](https://github.com/adnanh/webhook) ⭐ 12,169 | 🐛 128 | 🌐 Go | 📅 2026-09-04 - Easily run commands in response to HTTP webhook requests from Slack
+* [webhook](https://github.com/adnanh/webhook) ⭐ 12,170 | 🐛 128 | 🌐 Go | 📅 2026-09-04 - Easily run commands in response to HTTP webhook requests from Slack
 
 ### Java
 
@@ -90,7 +90,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 * [django-slack](https://github.com/lamby/django-slack) ⭐ 245 | 🐛 9 | 🌐 Python | 📅 2025-07-11 - Slack integration for Django, using the templating engine to generate messages
 * [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 187 | 🐛 3 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
 * [blockkit](https://github.com/imryche/blockkit) ⭐ 104 | 🐛 7 | 🌐 Python | 📅 2026-01-18 - A fast way to build Block Kit interfaces in Python
-* [slackblocks](https://github.com/nicklambourne/slackblocks) ⭐ 78 | 🐛 4 | 🌐 Java | 📅 2026-09-30 - Python API for building Slack Block Kit messages
+* [slackblocks](https://github.com/nicklambourne/slackblocks) ⭐ 78 | 🐛 0 | 🌐 Java | 📅 2026-10-03 - Python API for building Slack Block Kit messages
 * [django-slack-oauth](https://github.com/izdi/django-slack-oauth) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2020-07-19 - Slack OAuth module for Django
 * [slashbot](https://github.com/ebrassell/slashbot) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2021-10-31 - An easy way to create slash commands using AWS Lambda functions
 * [boltworks](https://github.com/YSaxon/boltworks) ⭐ 2 | 🐛 11 | 🌐 Python | 📅 2024-05-21 - Extensions to Slack's bolt framework: expandable GUIs, easier callbacks, richer CLIs
@@ -134,8 +134,8 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### JavaScript/Typescript
 
-* [slack-github-action](https://github.com/slackapi/slack-github-action) ⭐ 1,350 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01 - Send data into Slack using this GitHub Action
-* [SlackONOS](https://github.com/htilly/SlackONOS) ⭐ 136 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-02 - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
+* [slack-github-action](https://github.com/slackapi/slack-github-action) ⭐ 1,351 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01 - Send data into Slack using this GitHub Action
+* [SlackONOS](https://github.com/htilly/SlackONOS) ⭐ 136 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-03 - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
 * [tasks-app](https://github.com/slackapi/tasks-app) ⚠️ Archived - Simple task management app produced by Slack
 * [tesla-slack](https://github.com/heikkipora/tesla-slack) ⚠️ Archived - Track your Tesla from Slack
 * [definition-app](https://github.com/slackapi/definition-app) ⚠️ Archived - App for storing and accessing company-specific phrases
@@ -143,7 +143,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### PHP
 
-* [monolog](https://github.com/Seldaek/monolog) ⭐ 21,402 | 🐛 6 | 🌐 PHP | 📅 2026-10-01 - Sends your logs to Slack
+* [monolog](https://github.com/Seldaek/monolog) ⭐ 21,401 | 🐛 7 | 🌐 PHP | 📅 2026-10-01 - Sends your logs to Slack
 * [MantisBT-Slack](https://github.com/infojunkie/MantisBT-Slack) ⭐ 48 | 🐛 10 | 🌐 PHP | 📅 2025-06-10 - MantisBT plugin to send bug updates to Slack
 
 ### Python
