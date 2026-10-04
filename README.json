@@ -154,7 +154,7 @@
                 "open_issues": 128,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12170,
+                "stars": 12173,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,7 +199,7 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:32:18Z",
+                "last_commit": "2026-10-04T01:23:37Z",
                 "open_issues": 46,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
@@ -295,7 +295,7 @@
                 "open_issues": 83,
                 "owner": "slackapi",
                 "repo": "bolt-js",
-                "stars": 2944,
+                "stars": 2943,
                 "topics": [
                   "framework",
                   "javascript",
@@ -603,10 +603,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-01T22:23:50Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4018,
+                "stars": 4019,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -638,7 +638,7 @@
                 "open_issues": 33,
                 "owner": "slackapi",
                 "repo": "bolt-python",
-                "stars": 1327,
+                "stars": 1328,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -818,8 +818,8 @@
                 "id": 196840370,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-03T09:28:32Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-04T13:13:31Z",
+                "open_issues": 5,
                 "owner": "nicklambourne",
                 "repo": "slackblocks",
                 "stars": 78,
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:44:57.027Z",
+    "last_updated": "2026-10-04T18:41:53.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
