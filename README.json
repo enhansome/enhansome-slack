@@ -154,7 +154,7 @@
                 "open_issues": 128,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12174,
+                "stars": 12175,
                 "topics": [
                   "automate",
                   "automation",
@@ -295,7 +295,7 @@
                 "open_issues": 83,
                 "owner": "slackapi",
                 "repo": "bolt-js",
-                "stars": 2943,
+                "stars": 2944,
                 "topics": [
                   "framework",
                   "javascript",
@@ -602,7 +602,7 @@
                 "id": 26456792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T03:08:54Z",
+                "last_commit": "2026-10-06T14:31:44Z",
                 "open_issues": 59,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
@@ -634,8 +634,8 @@
                 "id": 268795735,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:16:33Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-06T19:58:36Z",
+                "open_issues": 32,
                 "owner": "slackapi",
                 "repo": "bolt-python",
                 "stars": 1328,
@@ -1143,7 +1143,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T23:19:12Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "abdolence",
                 "repo": "slack-morphism-rust",
                 "stars": 232,
@@ -1505,7 +1505,7 @@
                 "open_issues": 4,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21401,
+                "stars": 21400,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:42:09.655Z",
+    "last_updated": "2026-10-06T20:26:25.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
@@ -1798,7 +1798,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-29T10:12:36Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "matiassingers",
       "repo": "awesome-slack",
       "stars": 893,
