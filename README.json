@@ -154,7 +154,7 @@
                 "open_issues": 129,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12208,
+                "stars": 12210,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,7 +199,7 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-07T00:30:09Z",
+                "last_commit": "2026-11-08T00:30:33Z",
                 "open_issues": 44,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
@@ -606,7 +606,7 @@
                 "open_issues": 62,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4016,
+                "stars": 4017,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -818,8 +818,8 @@
                 "id": 196840370,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-07T10:43:36Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-08T00:34:11Z",
+                "open_issues": 0,
                 "owner": "nicklambourne",
                 "repo": "slackblocks",
                 "stars": 79,
@@ -1142,7 +1142,7 @@
                 "id": 267288954,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T09:54:38Z",
+                "last_commit": "2026-11-08T12:46:35Z",
                 "open_issues": 3,
                 "owner": "abdolence",
                 "repo": "slack-morphism-rust",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:30:26.594Z",
+    "last_updated": "2026-11-08T19:50:08.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
@@ -1801,7 +1801,7 @@
       "open_issues": 4,
       "owner": "matiassingers",
       "repo": "awesome-slack",
-      "stars": 897,
+      "stars": 896,
       "topics": [
         "awesome",
         "awesome-list",
