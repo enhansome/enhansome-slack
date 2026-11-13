@@ -1,6 +1,6 @@
 # Awesome slack with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,902 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,402 | 🐛 104 | 📅 2026-09-02
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -54,17 +54,17 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Go
 
-* [webhook](https://github.com/adnanh/webhook) ⭐ 12,213 | 🐛 130 | 🌐 Go | 📅 2026-09-04 - Easily run commands in response to HTTP webhook requests from Slack
+* [webhook](https://github.com/adnanh/webhook) ⭐ 12,215 | 🐛 130 | 🌐 Go | 📅 2026-09-04 - Easily run commands in response to HTTP webhook requests from Slack
 
 ### Java
 
-* [java-slack-sdk](https://github.com/slackapi/java-slack-sdk) ⭐ 603 | 🐛 56 | 🌐 Java | 📅 2026-11-12 - Slack's official Java framework for building Slack apps
+* [java-slack-sdk](https://github.com/slackapi/java-slack-sdk) ⭐ 603 | 🐛 45 | 🌐 Java | 📅 2026-11-13 - Slack's official Java framework for building Slack apps
 * [simple-slack-api](https://github.com/Ullink/simple-slack-api) ⭐ 475 | 🐛 79 | 🌐 Java | 📅 2022-10-04 - A Slack client library in Java
 
 ### JavaScript/TypeScript
 
-* [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) ⭐ 3,377 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-12 - Slack's official SDK for Node.js
-* [bolt-js](https://github.com/slackapi/bolt-js) ⭐ 2,954 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-12 - Slack's official JavaScript framework for building Slack apps
+* [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) ⭐ 3,377 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-13 - Slack's official SDK for Node.js
+* [bolt-js](https://github.com/slackapi/bolt-js) ⭐ 2,954 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-13 - Slack's official JavaScript framework for building Slack apps
 * [slack-block-builder](https://github.com/raycharius/slack-block-builder) ⭐ 639 | 🐛 21 | 🌐 TypeScript | 📅 2024-08-18 - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI
 * [jsx-slack](https://github.com/yhatt/jsx-slack) ⭐ 508 | 🐛 16 | 🌐 TypeScript | 📅 2026-02-26 - Build JSON object for Slack Block Kit surfaces from JSX
 * [appstore-webhook-proxy](https://github.com/yannisalexiou/appstore-webhook-proxy) ⭐ 29 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-21 - App Store Webhook Proxy for Microsoft Teams & Slack.
@@ -83,8 +83,8 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Python
 
-* [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) ⭐ 4,019 | 🐛 72 | 🌐 Python | 📅 2026-11-12 - Slack's official SDK for Python
-* [bolt-python](https://github.com/slackapi/bolt-python) ⭐ 1,334 | 🐛 39 | 🌐 Python | 📅 2026-11-10 - Slack's official Python framework for building Slack apps
+* [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) ⭐ 4,020 | 🐛 59 | 🌐 Python | 📅 2026-11-13 - Slack's official SDK for Python
+* [bolt-python](https://github.com/slackapi/bolt-python) ⭐ 1,335 | 🐛 39 | 🌐 Python | 📅 2026-11-10 - Slack's official Python framework for building Slack apps
 * [python-slack-events-api](https://github.com/slackapi/python-slack-events-api) ⚠️ Archived - Slack Events API adapter for Python
 * [slack-php-api](https://github.com/jolicode/slack-php-api) ⭐ 256 | 🐛 15 | 🌐 PHP | 📅 2026-11-10 - PHP Slack client based on the official OpenAPI specification
 * [django-slack](https://github.com/lamby/django-slack) ⭐ 245 | 🐛 9 | 🌐 Python | 📅 2025-07-11 - Slack integration for Django, using the templating engine to generate messages
@@ -103,7 +103,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 * [slack-notifier](https://github.com/stevenosloan/slack-notifier) ⭐ 1,486 | 🐛 23 | 🌐 Ruby | 📅 2023-04-24 - A simple wrapper for posting to Slack
 * [slack-ruby-bot-server](https://github.com/slack-ruby/slack-ruby-bot-server) ⭐ 268 | 🐛 19 | 🌐 Ruby | 📅 2026-10-25 - Ruby library for building Slack applications
-* [slack-notify](https://github.com/sosedoff/slack-notify) ⭐ 93 | 🐛 3 | 🌐 Ruby | 📅 2020-12-23 - Send notifications to Slack
+* [slack-notify](https://github.com/sosedoff/slack-notify) ⭐ 94 | 🐛 3 | 🌐 Ruby | 📅 2020-12-23 - Send notifications to Slack
 * [slack-ruby-block-kit](https://github.com/CGA1123/slack-ruby-block-kit) ⭐ 75 | 🐛 8 | 🌐 Ruby | 📅 2026-11-05 - A ruby wrapper for Slack's Block Kit
 * [slack-poster](https://github.com/rikas/slack-poster) ⚠️ Archived - Simple gem to post messages on Slack using webhooks
 * [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot) ⭐ 49 | 🐛 0 | 🌐 Ruby | 📅 2025-09-22 - The easiest way to write a Slack bot in Ruby
@@ -111,7 +111,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Rust
 
-* [slack-morphism-rust](https://github.com/abdolence/slack-morphism-rust) ⭐ 232 | 🐛 3 | 🌐 Rust | 📅 2026-11-11 - A modern async Slack API client for Rust
+* [slack-morphism-rust](https://github.com/abdolence/slack-morphism-rust) ⭐ 232 | 🐛 2 | 🌐 Rust | 📅 2026-11-13 - A modern async Slack API client for Rust
 
 ### Scala
 
@@ -135,7 +135,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### JavaScript/Typescript
 
 * [slack-github-action](https://github.com/slackapi/slack-github-action) ⭐ 1,359 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-11 - Send data into Slack using this GitHub Action
-* [SlackONOS](https://github.com/htilly/SlackONOS) ⭐ 136 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-10 - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
+* [SlackONOS](https://github.com/htilly/SlackONOS) ⭐ 136 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-13 - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
 * [tasks-app](https://github.com/slackapi/tasks-app) ⚠️ Archived - Simple task management app produced by Slack
 * [tesla-slack](https://github.com/heikkipora/tesla-slack) ⚠️ Archived - Track your Tesla from Slack
 * [definition-app](https://github.com/slackapi/definition-app) ⚠️ Archived - App for storing and accessing company-specific phrases
@@ -148,7 +148,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Python
 
-* [wee-slack](https://github.com/rawdigits/wee-slack) ⭐ 2,621 | 🐛 116 | 🌐 Python | 📅 2026-08-17 - A WeeChat plugin for Slack
+* [wee-slack](https://github.com/rawdigits/wee-slack) ⭐ 2,620 | 🐛 116 | 🌐 Python | 📅 2026-08-17 - A WeeChat plugin for Slack
 * [slackbot](https://github.com/lins05/slackbot) ⭐ 1,278 | 🐛 67 | 🌐 Python | 📅 2023-03-14 - A chat bot for Slack
 * [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 186 | 🐛 3 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
 * [tasks-app](https://github.com/slackapi/tasks-app) ⚠️ Archived - Simple task management app produced by Slack
@@ -156,7 +156,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### Ruby
 
 * [trebekbot](https://github.com/gesteves/trebekbot) ⭐ 161 | 🐛 8 | 🌐 Ruby | 📅 2023-12-18 - A Jeopardy! bot for Slack
-* [slack-gamebot](https://github.com/dblock/slack-gamebot) ⭐ 129 | 🐛 2 | 🌐 Ruby | 📅 2026-11-11 - A game bot for Slack
+* [slack-gamebot](https://github.com/dblock/slack-gamebot) ⭐ 129 | 🐛 3 | 🌐 Ruby | 📅 2026-11-13 - A game bot for Slack
 * [ZReviewTender](https://github.com/ZhgChgLi/ZReviewTender) ⭐ 62 | 🐛 6 | 🌐 Ruby | 📅 2026-05-07 - A tool for fetching app reviews from the App Store and Google Play Console and sending them to Slack.
 * [snarkov](https://github.com/gesteves/snarkov) ⭐ 26 | 🐛 6 | 🌐 Ruby | 📅 2023-03-16 - Sinatra-based Markov bot for Slack
 * [tickbot](https://github.com/barryf/tickbot) ⚠️ Archived - Simple team time tracking reminder
@@ -173,4 +173,4 @@ To the extent possible under law, [Matias Singers](http://mts.io) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
