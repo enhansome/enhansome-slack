@@ -154,7 +154,7 @@
                 "open_issues": 131,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12222,
+                "stars": 12225,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,11 +199,11 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-18T22:04:26Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-19T22:30:04Z",
+                "open_issues": 52,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
-                "stars": 603,
+                "stars": 602,
                 "topics": [
                   "bolt",
                   "chatbot",
@@ -238,7 +238,7 @@
                 "open_issues": 79,
                 "owner": "Itiviti",
                 "repo": "simple-slack-api",
-                "stars": 475,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:20.600Z"
@@ -262,11 +262,11 @@
                 "id": 18117991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T21:47:01Z",
+                "last_commit": "2026-11-19T19:37:25Z",
                 "open_issues": 65,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3375,
+                "stars": 3374,
                 "topics": [
                   "slack",
                   "slackapi",
@@ -291,7 +291,7 @@
                 "id": 63654176,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T17:05:10Z",
+                "last_commit": "2026-11-19T18:55:47Z",
                 "open_issues": 80,
                 "owner": "slackapi",
                 "repo": "bolt-js",
@@ -602,11 +602,11 @@
                 "id": 26456792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T21:53:25Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-19T22:32:21Z",
+                "open_issues": 66,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4018,
+                "stars": 4017,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -638,7 +638,7 @@
                 "open_issues": 39,
                 "owner": "slackapi",
                 "repo": "bolt-python",
-                "stars": 1336,
+                "stars": 1335,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -679,7 +679,7 @@
                 "open_issues": 2,
                 "owner": "slackapi",
                 "repo": "python-slack-events-api",
-                "stars": 341,
+                "stars": 339,
                 "topics": [
                   "python",
                   "slack",
@@ -1280,7 +1280,7 @@
                 "open_issues": 79,
                 "owner": "Itiviti",
                 "repo": "simple-slack-api",
-                "stars": 475,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:20.600Z"
@@ -1335,7 +1335,7 @@
                 "open_issues": 19,
                 "owner": "slackapi",
                 "repo": "slack-github-action",
-                "stars": 1359,
+                "stars": 1358,
                 "topics": [
                   "bot",
                   "github-actions",
@@ -1501,11 +1501,11 @@
                 "id": 1376664,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-18T16:14:55Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-19T13:33:04Z",
+                "open_issues": 3,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21408,
+                "stars": 21407,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -1560,7 +1560,7 @@
                 "open_issues": 116,
                 "owner": "wee-slack",
                 "repo": "wee-slack",
-                "stars": 2619,
+                "stars": 2618,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:20.600Z"
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:38:36.523Z",
+    "last_updated": "2026-11-19T22:42:16.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
