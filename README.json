@@ -154,7 +154,7 @@
                 "open_issues": 131,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12226,
+                "stars": 12229,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,7 +199,7 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-20T15:12:32Z",
+                "last_commit": "2026-11-21T03:12:39Z",
                 "open_issues": 50,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
@@ -263,7 +263,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-20T14:39:46Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
                 "stars": 3374,
@@ -1146,7 +1146,7 @@
                 "open_issues": 2,
                 "owner": "abdolence",
                 "repo": "slack-morphism-rust",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "rust",
                   "rust-crate",
@@ -1356,8 +1356,8 @@
                 "id": 57378574,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T18:13:19Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-21T11:39:27Z",
+                "open_issues": 2,
                 "owner": "htilly",
                 "repo": "SlackONOS",
                 "stars": 136,
@@ -1505,7 +1505,7 @@
                 "open_issues": 3,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21407,
+                "stars": 21408,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -1684,7 +1684,7 @@
                 "id": 34730464,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-20T19:42:33Z",
+                "last_commit": "2026-11-21T04:54:37Z",
                 "open_issues": 2,
                 "owner": "dblock",
                 "repo": "slack-gamebot",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:16:41.054Z",
+    "last_updated": "2026-11-21T20:57:45.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
