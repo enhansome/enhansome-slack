@@ -154,7 +154,7 @@
                 "open_issues": 131,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12229,
+                "stars": 12231,
                 "topics": [
                   "automate",
                   "automation",
@@ -199,8 +199,8 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-21T03:12:39Z",
-                "open_issues": 50,
+                "last_commit": "2026-11-22T00:30:55Z",
+                "open_issues": 51,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
                 "stars": 602,
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:57:45.656Z",
+    "last_updated": "2026-11-22T21:07:34.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",

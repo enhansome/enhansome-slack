@@ -1,6 +1,6 @@
 # Awesome slack with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,484 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,044 | 🐛 103 | 📅 2026-09-02
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -54,11 +54,11 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Go
 
-* [webhook](https://github.com/adnanh/webhook) ⭐ 12,229 | 🐛 131 | 🌐 Go | 📅 2026-09-04 - Easily run commands in response to HTTP webhook requests from Slack
+* [webhook](https://github.com/adnanh/webhook) ⭐ 12,231 | 🐛 131 | 🌐 Go | 📅 2026-09-04 - Easily run commands in response to HTTP webhook requests from Slack
 
 ### Java
 
-* [java-slack-sdk](https://github.com/slackapi/java-slack-sdk) ⭐ 602 | 🐛 50 | 🌐 Java | 📅 2026-11-21 - Slack's official Java framework for building Slack apps
+* [java-slack-sdk](https://github.com/slackapi/java-slack-sdk) ⭐ 602 | 🐛 51 | 🌐 Java | 📅 2026-11-22 - Slack's official Java framework for building Slack apps
 * [simple-slack-api](https://github.com/Ullink/simple-slack-api) ⭐ 474 | 🐛 79 | 🌐 Java | 📅 2022-10-04 - A Slack client library in Java
 
 ### JavaScript/TypeScript
@@ -173,4 +173,4 @@ To the extent possible under law, [Matias Singers](http://mts.io) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
