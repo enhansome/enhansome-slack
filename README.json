@@ -199,7 +199,7 @@
                 "id": 62449869,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-26T00:43:02Z",
+                "last_commit": "2026-11-27T00:48:13Z",
                 "open_issues": 49,
                 "owner": "slackapi",
                 "repo": "java-slack-sdk",
@@ -326,7 +326,7 @@
                 "open_issues": 21,
                 "owner": "raycharius",
                 "repo": "slack-block-builder",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "bot-application",
                   "bot-framework",
@@ -603,7 +603,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-26T21:37:57Z",
-                "open_issues": 67,
+                "open_issues": 66,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4019,
@@ -638,7 +638,7 @@
                 "open_issues": 37,
                 "owner": "slackapi",
                 "repo": "bolt-python",
-                "stars": 1337,
+                "stars": 1338,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -1335,7 +1335,7 @@
                 "open_issues": 14,
                 "owner": "slackapi",
                 "repo": "slack-github-action",
-                "stars": 1360,
+                "stars": 1361,
                 "topics": [
                   "bot",
                   "github-actions",
@@ -1505,7 +1505,7 @@
                 "open_issues": 3,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21404,
+                "stars": 21405,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:55:29.379Z",
+    "last_updated": "2026-11-27T23:36:23.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Slack related things",
@@ -1801,7 +1801,7 @@
       "open_issues": 7,
       "owner": "matiassingers",
       "repo": "awesome-slack",
-      "stars": 897,
+      "stars": 895,
       "topics": [
         "awesome",
         "awesome-list",
